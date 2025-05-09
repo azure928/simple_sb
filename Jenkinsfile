@@ -8,7 +8,7 @@ pipeline {
         GITNAME = 'azure928'            
         GITEMAIL = 'azure6.dev@gmail.com' 
         GITWEBADD = 'https://github.com/azure928/simple_sb.git'
-        GITSSHADD = 'git@github.com:azure928/simple_sb.git'
+        GITSSHADD = 'git@github.com:azure928/dep.git'
         GITCREDENTIAL = 'git_cre'
         
         DOCKERHUB = 'azure6dev/spring'
